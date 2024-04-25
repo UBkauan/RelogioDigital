@@ -1,0 +1,58 @@
+.container{
+    height: auto;
+    width: auto;
+    background: red;
+    justify-content: center;    
+}
+.div_usuario{
+    width: auto;
+    height: auto;
+    background: purple;
+}
+.div_anuncio{
+    height: auto;
+    width: auto;
+    background: rgb(84, 187, 24);
+}
+footer{
+    height: auto;
+    width: auto;
+    background: #181D2E;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row;
+    justify-content: space-around;
+}
+.img_vagasPinhal{
+    height: 100px;
+    width: auto;
+}
+a{
+    color:#ffffff;
+    text-decoration: none;
+
+}
+hr{
+    width: 40px;
+    margin: 0px;
+}
+    
+    
+#nav_bar1{
+    display: flex;
+   flex-direction: row;
+   gap: 20px;
+}
+#nav_home{
+    display: flex;
+ font-size: 13px;
+    align-items: center;
+
+    gap: 5px;
+}
+#nav_usuario{
+    display: flex;
+    align-items: center;
+    gap: 20px;
+}
